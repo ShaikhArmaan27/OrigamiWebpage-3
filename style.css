@@ -1,0 +1,14 @@
+h1{
+    margin:100px;
+    margin-left: 800px;  
+    font-style: italic;
+    font-size: 80px;
+    background-color: #808080;
+  }
+  body{
+      background-color:#70D2FF
+  }
+   img{
+       border:solid;
+       border-radius:10px;
+   }
